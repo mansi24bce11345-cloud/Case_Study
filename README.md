@@ -1,4 +1,3 @@
-
 # oss-audit-24BCE11345
 
 ## Open Source Software Audit — Capstone Project
